@@ -1,6 +1,4 @@
 *.log
-/fetch.js
-/gatsby-node.js
 /nodes.js
 /normalize.js
 /yarn.lock
